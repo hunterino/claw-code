@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/michael/code/fivex/claw-code/logs/.fbca9baa07fc0e8e82a2d31d86737043575ab69e-audit.json",
+    "files": [
+        {
+            "date": 1777144741867,
+            "name": "/Users/michael/code/fivex/claw-code/logs/mcp-puppeteer-2026-04-25.log",
+            "hash": "832d8b21587e3f54ba667a82472570d175c1c083388e32bb0b7e5a6916909ca3"
+        }
+    ],
+    "hashType": "sha256"
+}
